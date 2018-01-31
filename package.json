@@ -1,0 +1,30 @@
+{
+  "name": "comp308-w2018-lesson02",
+  "version": "0.0.0",
+  "private": true,
+  "description": "demo project for node js and express generator",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=9.4.0",
+    "npm": ">=5.6.0"
+  },
+  "repository": {
+    "url": "https://github.com/Devdas2018/NewNodeProject.git"
+  },
+  "dependencies": {
+    "body-parser": "~1.18.2",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "ejs": "~2.5.7",
+    "express": "~4.15.5",
+    "morgan": "~1.9.0",
+    "serve-favicon": "~2.4.5"
+  },
+  "devDependencies": {
+    "@types/ejs": "^2.5.0",
+    "@types/express": "^4.11.0",
+    "@types/node": "^9.4.0"
+  }
+}
